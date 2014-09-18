@@ -13,6 +13,6 @@ See the header files for details on the functions and usage.
 
 gsPulse.cpp shows a test program demonstrating how the library can be used.
 
-The Intel IoT Dev Kit is available from https://software.intel.com/iot
+
 
 
